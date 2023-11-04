@@ -21,8 +21,8 @@ Your users should be able to:
   - A step is submitted, but no selection has been made
 
 ## Links
-- [live site]()
-- [solution]()
+- [live site](https://dreamy-platypus-8e1fd1.netlify.app/)
+- [solution](https://www.frontendmentor.io/solutions/multistep-form-using-react-and-tailwind-css-wymPrsdIy4)
 
 ## Built With
 - React
